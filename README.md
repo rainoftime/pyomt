@@ -1,5 +1,8 @@
 # PyOMT — Optimization Modulo Theories
 
+> [!IMPORTANT]
+> Active development of PyOMT has moved to the [`ZJU-PL/aria`](https://github.com/ZJU-PL/aria) repository, under [`aria/pyomt`](https://github.com/ZJU-PL/aria/tree/master/aria/pyomt). This repository is retained for historical/reference use.
+
 PyOMT provides engines for solving Optimization Modulo Theories (OMT) problems, focusing on bit-vector objectives.
 
 ## Features
